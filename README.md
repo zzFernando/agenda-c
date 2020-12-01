@@ -11,8 +11,7 @@
 - Após executar esse comando, será gerado (compilado) um arquivo "agenda.exe", que pode ser executado com "dois cliques";
 
 
-
-COBERTURA DO QUE FOI SOLICITADO
+FUNCIONAMENTO
 
 Montar o menu principal do programa com ponteiros para funções ao invés de uma estrutura switch case.
 	main.c => (linhas 16-20; linha 38)
@@ -35,8 +34,4 @@ Alocar memória para as estruturas de dados com malloc()
 
 Criar uma estrutura de bibliotecas (headers) para o projeto (arquivos de cabeçalho).
 	Os arquivos "functions.h", "functions.c" e "main.c" forma uma estrutura de headers;
-
-Enviar “pacote zipado” contento o arquivo principal + as bibliotecas criadas + txt contendo instruções de compilação via moodle até o dia 2/12 às 23:59hs nesta mesma tarefa no moodle.
-
-	Os arquivos estão separados, as orientações para compilação estão no começo deste arquivos. O arquivo principal "main.c" e "functions.h" e "functiosn.c" são as bibliotecas.
 
